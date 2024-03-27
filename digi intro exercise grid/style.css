@@ -1,0 +1,57 @@
+body {
+    background: lightslategray;
+    font-family: fantasy;
+  }
+
+  .all-buildings {
+    margin: 0;
+    padding: 5px;
+    background-color: lightslategrey;
+  }
+  
+  .all-buildings > h1, .buildings {
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .buildings {
+    background: white;
+  }
+  
+  .buildings > h2, p {
+    margin: 4px;
+    font-size: 90%;
+  }
+
+  .top-img {
+    display: grid;
+    
+    background-color: #4121f3;
+    padding: 10px;
+    height: 80px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 100px;
+    
+  }
+  
+  .main-img {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    border-radius: 20px;
+    
+  }
+  
+.individual-text {
+ color: white;
+  font-family: cursive;
+  padding: 25px;
+  margin: 20px;
+  margin-top: 20px;
+  line-height: 24px;
+  
+  
+}
+
+
